@@ -5,9 +5,10 @@
 .Spotlight-V100
 .Trashes
 
-# 临时截图文件（分析用，不纳入版本管理）
+# 截图文件（分析用，不纳入版本管理）
 /tmp/
 *.tmp
+screenshots/
 
 # 编辑器
 .vscode/
